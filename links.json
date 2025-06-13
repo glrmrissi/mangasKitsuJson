@@ -1,0 +1,7 @@
+{
+    "linksMangas": [
+        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=action",
+        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=shoujo",
+        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=horror"
+    ]
+}
