@@ -1,13 +1,13 @@
 {
     "linksMangas": [
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=action",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=shoujo",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=historical",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=horror",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=asia",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=comedy",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=crime",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=mecha",
-        "https://kitsu.io/api/edge/manga?page[limit]=10&filter[subtype]=manga&filter[categories]=isekai"
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=action",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=shoujo",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=historical",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=horror",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=asia",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=comedy",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=crime",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=mecha",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&filter[subtype]=manga&filter[categories]=isekai"
     ]
 }
