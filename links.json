@@ -4,10 +4,10 @@
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=shoujo",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=historical",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=horror",
-        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=asia",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=sports",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=comedy",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=crime",
-        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=mecha",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=romance",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manga&filter[categories]=isekai"
     ],
     "linksManhwa": [
@@ -15,10 +15,10 @@
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=shoujo",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=historical",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=horror",
-        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=asia",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=sports",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=comedy",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=crime",
-        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=mecha",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=romance",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhwa&filter[categories]=isekai"
     ],
     "linksManhua": [
@@ -26,10 +26,10 @@
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=shoujo",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=historical",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=horror",
-        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=asia",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=sports",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=comedy",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=crime",
-        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=mecha",
+        "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=romance",
         "https://kitsu.io/api/edge/manga?page[limit]=6&page[offset]=6&filter[subtype]=manhua&filter[categories]=isekai"
     ]
 }
